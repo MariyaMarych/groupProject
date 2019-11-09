@@ -23,7 +23,7 @@ String biggest = "";
 
         }
         System.out.println(biggest);
-        System.out.println("mmm")
-         System.out.println("MMM")
+        System.out.println("mmm");
+         System.out.println("MMM");
     }
 }
