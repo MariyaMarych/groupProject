@@ -9,7 +9,7 @@ public class ArraysTask2 {
             if (colors[i].length() > 4)
 
 
-            System.out.println(colors[i]);
+            System.out.println(colors[i]+"colors!!!");
 
         }
     }
