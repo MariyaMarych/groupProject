@@ -20,7 +20,10 @@ public class MatchTwoArray {
 
         int matches = 0;
         for (int i = 0; i <arr.length-1 ; i++) {
-
+            for (int j = 0; j <arr[i].length ; j++) {
+                arr[i][j]= arr[i][j]+1;
+                matches++;
+            }
         }
 
 
