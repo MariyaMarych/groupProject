@@ -43,8 +43,20 @@ objects types are able to store not only pieces of information , but they can st
 
     }
 
+Class vs Object
 
+*Class is a type that specifies the instance variables and behavoirs. We can say that class is temple or blueprint.
 
+*Object : an actual object that got created by the class.
+Multiple objects can be created by the class.
+
+Creating an Object:
+-- We use new keyword every time we create an object;
+ex: Flag f1 = new Flag();
+instantiate --> create an object;
+-- object or instance;
+
+*** By default when we have local variable same as instance variable, it uses local variable
 
 
 
